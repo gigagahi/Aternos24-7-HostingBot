@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "AM AFK HERE",
   "bot-account": {
     "username": "YourBotUsername",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "MojawharatSMP.aternos.me",
+    "port": 25400,
     "version": "",
     "try-creative": false
   },
@@ -29,10 +29,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 5,
       "messages": [
-        "I'm a regular player",
-        "I like to play Minecraft!"
+        "/register hello",
+        "/login hello"
       ]
     },
     "chat-log": true,
